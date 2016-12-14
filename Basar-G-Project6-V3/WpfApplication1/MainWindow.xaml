@@ -1,0 +1,18 @@
+﻿<Window x:Class="MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="MainWindow" Height="437.5" Width="615">
+    <Grid>
+        <DataGrid x:Name="dataGrid" HorizontalAlignment="Left" Height="340" Margin="38,30,0,0" VerticalAlignment="Top" Width="521" Visibility="Hidden">
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="personName" Header="Person Name" Width="166" CanUserResize="False" Binding="{Binding Path=name}"/>
+                <DataGridTextColumn x:Name="number1" Header="Number 1" CanUserResize="False" Width="110" Binding="{Binding Path=num1}"/>
+                <DataGridTextColumn x:Name="number2" Header="Number 2" CanUserResize="False" Width="110" Binding="{Binding Path=num2}"/>
+                <DataGridTextColumn x:Name="number3" Header="Number 3" Width="110" CanUserResize="False" Binding="{Binding Path=num3}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Label x:Name="startLabel" Content="Gulce says start here!" HorizontalAlignment="Left" Height="54" Margin="214,105,0,0" VerticalAlignment="Top" Width="202" FontSize="20"/>
+        <Button x:Name="start" Content="Start" HorizontalAlignment="Left" Height="36" Margin="251,164,0,0" VerticalAlignment="Top" Width="136" FontSize="16"/>
+
+    </Grid>
+</Window>
