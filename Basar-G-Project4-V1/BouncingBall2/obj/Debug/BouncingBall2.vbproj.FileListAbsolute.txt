@@ -1,0 +1,11 @@
+\\mac\home\documents\visual studio 2013\Projects\BouncingBall2\BouncingBall2\bin\Debug\BouncingBall2.exe.config
+\\mac\home\documents\visual studio 2013\Projects\BouncingBall2\BouncingBall2\bin\Debug\BouncingBall2.exe
+\\mac\home\documents\visual studio 2013\Projects\BouncingBall2\BouncingBall2\bin\Debug\BouncingBall2.pdb
+\\mac\home\documents\visual studio 2013\Projects\BouncingBall2\BouncingBall2\bin\Debug\BouncingBall2.xml
+\\mac\home\documents\visual studio 2013\Projects\BouncingBall2\BouncingBall2\obj\Debug\BouncingBall2.Resources.resources
+\\mac\home\documents\visual studio 2013\Projects\BouncingBall2\BouncingBall2\obj\Debug\BouncingBall2.vbproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2013\Projects\BouncingBall2\BouncingBall2\obj\Debug\BouncingBall2.exe
+\\mac\home\documents\visual studio 2013\Projects\BouncingBall2\BouncingBall2\obj\Debug\BouncingBall2.xml
+\\mac\home\documents\visual studio 2013\Projects\BouncingBall2\BouncingBall2\obj\Debug\BouncingBall2.pdb
+\\mac\home\documents\visual studio 2013\Projects\BouncingBall2\BouncingBall2\obj\Debug\BouncingBall2.Form1.resources
+\\Mac\Home\Documents\Visual Studio 2013\Projects\BouncingBall2\BouncingBall2\obj\Debug\BouncingBall2.vbprojResolveAssemblyReference.cache
